@@ -1,0 +1,51 @@
+ACCESSION: PS003201
+RECORD_TITLE: 4-Hydroxyphenylacetic acid; MS2; QqQ; positive; CE 10 V
+DATE: 2009.2.9
+AUTHORS: Sawada Y, Matsuda F, and Hirai MY. Plant Science Center, RIKEN
+COPYRIGHT: Copyright(C) 2008 Plant Science Center, RIKEN
+COMMENTS: Build 5
+COMMENTS: Data acquisition and generation is financially supported in part by CREST/JST.
+COMMENTS: Source compound Aldrich, H50004.
+COMMENTS: PRIMe compound in-house ID 32
+COMMENTS: This spectra was automatically generated from the raw data without manual curation of data quality.
+COMMENTS: The spectral data and services are available to the research and academic community only.
+COMMENTS: All users must cite follwing literature in publication(s).
+PUBLICATION: Sawada et al Widely targeted metabolomics based on large-scale MS/MS data for elucidating metabolite accumulation patterns in plants. Plant Cell Physiol(2009) 50:37-47:doi:10.1093/pcp/pcn183 
+STRUCTURE_FILE_NAME: N/A
+CH$NAME: 4-Hydroxyphenylacetic acid
+CH$NAME: PHPA
+CH$NAME: 4-Hydroxyphenylacetate
+CH$NAME: 4-Carboxymethylphenol
+CH$NAME: 4-Hydroxyphenylethanoic Acid
+CH$COMPOUND_CLASS: CLASS1 Other
+CH$COMPOUND_CLASS: CLASS2 Carboxylic acid
+CH$COMPOUND_CLASS: CLASS3 Ethanoic acid
+CH$FORMULA: C8H8O3
+CH$EXACT_MASS: 152.047
+CH$LINK: CAS 156-38-7
+CH$LINK: KEGG C00642
+CH$LINK: PUBCHEM CID 127
+CH$SMILES: C1=CC(=CC=C1CC(=O)O)O
+CH$INCHI: InChI=1/C8H8O3/c9-7-3-1-6(2-4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)/f/h10H
+CH$IUPAC: 2-(4-hydroxyphenyl)acetic acid
+AC$INSTRUMENT: TQD, Waters
+AC$INSTRUMENT_TYPE: N/A
+AC$ANALYTICAL_CONDITION: MS_TYPE Flow-injection QqQ/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: PRECURSOR_SELECTION Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_EQUIPMENT Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_METHOD LOW-ENERGY CID
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10
+AC$ANALYTICAL_CONDITION: SPECTRUM_TYPE Q
+AC$ANALYTICAL_CONDITION: DATAFORMAT CENTROID
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+MS$FOCUSED_ION: ION_TYPE [M+H]+
+MS$FOCUSED_ION: PRECURSOR_M/Z 152.11
+PK$NUM_PEAK: 5
+PK$PEAK: m/z int. rel.int.
+    89 2505 46
+    90 40048 749
+    91 5252 98
+    110 21145 395
+    111 53359 999
+//
