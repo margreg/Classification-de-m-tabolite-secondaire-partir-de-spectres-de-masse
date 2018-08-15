@@ -1,0 +1,55 @@
+ACCESSION: PS093112
+RECORD_TITLE: Quercetin-3-Galactoside-6''-Rhamnoside-3'''-Rhamnoside; MS2; QqQ; negative; CE 60 V
+DATE: 2009.2.9
+AUTHORS: Sawada Y, Matsuda F, and Hirai MY. Plant Science Center, RIKEN
+COPYRIGHT: Copyright(C) 2008 Plant Science Center, RIKEN
+COMMENTS: Build 5
+COMMENTS: Data acquisition and generation is financially supported in part by CREST/JST.
+COMMENTS: Source compound AnalytiCon, NP-000535.
+COMMENTS: PRIMe compound in-house ID T0163
+COMMENTS: This spectra was automatically generated from the raw data without manual curation of data quality.
+COMMENTS: The spectral data and services are available to the research and academic community only.
+COMMENTS: All users must cite follwing literature in publication(s).
+PUBLICATION: Sawada et al Widely targeted metabolomics based on large-scale MS/MS data for elucidating metabolite accumulation patterns in plants. Plant Cell Physiol(2009) 50:37-47:doi:10.1093/pcp/pcn183 
+STRUCTURE_FILE_NAME: N/A
+CH$NAME: Quercetin-3-Galactoside-6''-Rhamnoside-3'''-Rhamnoside
+CH$NAME: Quer-3-Gal-6''-Rha-3'''-Rha
+CH$COMPOUND_CLASS: CLASS1 Flavonoid
+CH$COMPOUND_CLASS: CLASS2 Flavonol
+CH$COMPOUND_CLASS: CLASS3 Quercetin glycoside
+CH$FORMULA: C34H42O20
+CH$EXACT_MASS: 770.226
+CH$LINK: CAS 39723-40-6
+CH$LINK: KEGG -
+CH$LINK: PUBCHEM CID -
+CH$SMILES: no data
+CH$INCHI: no data
+CH$IUPAC: no data
+AC$INSTRUMENT: TQD, Waters
+AC$INSTRUMENT_TYPE: N/A
+AC$ANALYTICAL_CONDITION: MS_TYPE Flow-injection QqQ/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: PRECURSOR_SELECTION Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_EQUIPMENT Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_METHOD LOW-ENERGY CID
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 60
+AC$ANALYTICAL_CONDITION: SPECTRUM_TYPE Q
+AC$ANALYTICAL_CONDITION: DATAFORMAT CENTROID
+AC$ANALYTICAL_CONDITION: MODE NEGATIVE
+MS$FOCUSED_ION: ION_TYPE [M-H]-
+MS$FOCUSED_ION: PRECURSOR_M/Z 769.77
+PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+    299 4238 58
+    312 2203 30
+    313 26831 370
+    314 72261 999
+    315 38780 536
+    316 4676 64
+    766 4208 58
+    767 11244 155
+    768 19595 270
+    769 27628 381
+    770 17814 246
+    771 7129 98
+//

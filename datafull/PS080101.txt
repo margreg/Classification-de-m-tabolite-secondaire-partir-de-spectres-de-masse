@@ -1,0 +1,45 @@
+ACCESSION: PS080101
+RECORD_TITLE: L-beta-Homophenylalanine hydrochloride; MS2; QqQ; positive; CE 10 V
+DATE: 2009.2.9
+AUTHORS: Sawada Y, Matsuda F, and Hirai MY. Plant Science Center, RIKEN
+COPYRIGHT: Copyright(C) 2008 Plant Science Center, RIKEN
+COMMENTS: Build 5
+COMMENTS: Data acquisition and generation is financially supported in part by CREST/JST.
+COMMENTS: Source compound Fluka, 3769.
+COMMENTS: PRIMe compound in-house ID S0234
+COMMENTS: This spectra was automatically generated from the raw data without manual curation of data quality.
+COMMENTS: The spectral data and services are available to the research and academic community only.
+COMMENTS: All users must cite follwing literature in publication(s).
+PUBLICATION: Sawada et al Widely targeted metabolomics based on large-scale MS/MS data for elucidating metabolite accumulation patterns in plants. Plant Cell Physiol(2009) 50:37-47:doi:10.1093/pcp/pcn183 
+STRUCTURE_FILE_NAME: N/A
+CH$NAME: L-beta-Homophenylalanine hydrochloride
+CH$NAME: (S)-3-Amino-4-phenylbutyric acid hydrochloride
+CH$COMPOUND_CLASS: CLASS1 Amino acid
+CH$COMPOUND_CLASS: CLASS2 Phenylalanine
+CH$FORMULA: C10H13NO2 
+CH$EXACT_MASS: 179.094
+CH$LINK: CAS 138165-77-2
+CH$LINK: KEGG -
+CH$LINK: PUBCHEM CID 2761537
+CH$SMILES: C1=CC=C(C=C1)CC(CC(=O)O)N
+CH$INCHI: InChI=1/C10H13NO2/c11-9(7-10(12)13)6-8-4-2-1-3-5-8/h1-5,9H,6-7,11H2,(H,12,13)/t9-/m0/s1/f/h12H
+CH$IUPAC: (3S)-3-amino-4-phenylbutanoic acid
+AC$INSTRUMENT: TQD, Waters
+AC$INSTRUMENT_TYPE: N/A
+AC$ANALYTICAL_CONDITION: MS_TYPE Flow-injection QqQ/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: PRECURSOR_SELECTION Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_EQUIPMENT Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_METHOD LOW-ENERGY CID
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10
+AC$ANALYTICAL_CONDITION: SPECTRUM_TYPE Q
+AC$ANALYTICAL_CONDITION: DATAFORMAT CENTROID
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+MS$FOCUSED_ION: ION_TYPE [M+H]+
+MS$FOCUSED_ION: PRECURSOR_M/Z 180.2
+PK$NUM_PEAK: 3
+PK$PEAK: m/z int. rel.int.
+    120 143199 69
+    179 232435 112
+    180 2059913 999
+//
