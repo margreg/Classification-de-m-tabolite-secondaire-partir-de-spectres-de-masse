@@ -1,0 +1,52 @@
+ACCESSION: PS094505
+RECORD_TITLE: 3-Hydroxy-3-methylglutarate; MS2; QqQ; positive; CE 50 V
+DATE: 2009.2.9
+AUTHORS: Sawada Y, Matsuda F, and Hirai MY. Plant Science Center, RIKEN
+COPYRIGHT: Copyright(C) 2008 Plant Science Center, RIKEN
+COMMENTS: Build 5
+COMMENTS: Data acquisition and generation is financially supported in part by CREST/JST.
+COMMENTS: Source compound SIGMA, H4392.
+COMMENTS: PRIMe compound in-house ID N0003
+COMMENTS: This spectra was automatically generated from the raw data without manual curation of data quality.
+COMMENTS: The spectral data and services are available to the research and academic community only.
+COMMENTS: All users must cite follwing literature in publication(s).
+PUBLICATION: Sawada et al Widely targeted metabolomics based on large-scale MS/MS data for elucidating metabolite accumulation patterns in plants. Plant Cell Physiol(2009) 50:37-47:doi:10.1093/pcp/pcn183 
+STRUCTURE_FILE_NAME: N/A
+CH$NAME: 3-Hydroxy-3-methylglutarate
+CH$NAME: HMG
+CH$NAME: HMGA
+CH$NAME: 3-Hydroxy-3-methylglutaric Acid
+CH$NAME: beta-Hydroxy-beta-methylglutaric acid
+CH$NAME: Dicrotalic acid
+CH$NAME: 3-Hydroxy-3-methylpentanedioic acid
+CH$NAME: Meglutol
+CH$NAME: Lipoglutaren
+CH$NAME: Medroglutaric acid
+CH$NAME: alpha-Keto-beta-oxy-beta-methylvalerate
+CH$COMPOUND_CLASS: CLASS1 Amino acid
+CH$COMPOUND_CLASS: CLASS2 Glutamic acid
+CH$FORMULA: C6H10O5
+CH$EXACT_MASS: 162.052
+CH$LINK: CAS 503-49-1
+CH$LINK: KEGG C03761
+CH$LINK: PUBCHEM CID 1662
+CH$SMILES: CC(CC(=O)O)(CC(=O)O)O
+CH$INCHI: InChI=1/C6H10O5/c1-6(11,2-4(7)8)3-5(9)10/h11H,2-3H2,1H3,(H,7,8)(H,9,10)/f/h7,9H
+CH$IUPAC: 3-hydroxy-3-methylpentanedioic acid
+AC$INSTRUMENT: TQD, Waters
+AC$INSTRUMENT_TYPE: N/A
+AC$ANALYTICAL_CONDITION: MS_TYPE Flow-injection QqQ/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: PRECURSOR_SELECTION Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_EQUIPMENT Q
+AC$ANALYTICAL_CONDITION: FRAGMENTATION_METHOD LOW-ENERGY CID
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 50
+AC$ANALYTICAL_CONDITION: SPECTRUM_TYPE Q
+AC$ANALYTICAL_CONDITION: DATAFORMAT CENTROID
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+MS$FOCUSED_ION: ION_TYPE [M+H]+
+MS$FOCUSED_ION: PRECURSOR_M/Z 163.08
+PK$NUM_PEAK: 1
+PK$PEAK: m/z int. rel.int.
+    41 113632 999
+//
